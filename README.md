@@ -62,3 +62,7 @@ Download Here: *uploading now*
 - Post theme previews on YouTube  
 
 
+# Credits
+
+https://github.com/Retro-Devils/Devils-Advocate-Themes/blob/main/Credits.md
+
