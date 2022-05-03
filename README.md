@@ -49,8 +49,16 @@ Option 2
 
 Download Here: https://drive.google.com/file/d/1dokPzlGV3_zzeABUzz_dUyQ09G95WE3Q/view?usp=drivesdk
 
-- Space Theme (in the works) 
 
+# Planned Themes 
+
+- Space The Retro Frontier (a theme with space/cosmic feel)
+
+- Gold Bars & Chars (a character with each system gold colors/icons)
+
+- Advocate Arcade ( a arcade centered theme) 
+
+- Unnamed ATM (a theme with system info on screen for each system) 
 
 
 # The Future/To Do 
@@ -62,6 +70,8 @@ Download Here: https://drive.google.com/file/d/1dokPzlGV3_zzeABUzz_dUyQ09G95WE3Q
 - Make a preview script for themes .
 
 - Post theme previews on YouTube  
+
+- Make each system have more than one background .
 
 
 # Credits
